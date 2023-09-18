@@ -11,4 +11,4 @@ Similar Games:
 [Earthblade](https://exok.com/games/earthblade/)
 [Celeste Classic](https://exok.com/minigames/celeste.html)
 
-![alt text](https://github.com/merkadile/MTEC340/Assignments/MyFavoriteGame/celeste.png)
+![alt text](https://github.com/merkadile/MTEC340/blob/main/Assignments/MyFavoriteGame/celeste.png)
